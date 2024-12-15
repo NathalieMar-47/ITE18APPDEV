@@ -479,3 +479,22 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+#project-1:hover img {
+  transform: rotate(10deg) scale(1.1); /* Tilt effect */
+}
+
+#project-2:hover img {
+  transform: scale(1.1) translateY(-10px); /* Move up and zoom */
+}
+
+/* Project Card Image Hover Effect */
+.project__card img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project__card img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+

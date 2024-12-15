@@ -32,3 +32,27 @@ Route::get('/home1', function () {
 Route::get('/home2', function () {
     return view('home2');
 });
+
+Route::get('/registration', function () {
+    return view('registration');
+});
+
+Route::get('/main', function () {
+    return view('main');
+});
+
+Route::get('/about_us', function () {
+    return view('about_us');
+});
+
+Route::get('/projects', function () {
+    return view('projects');
+});
+
+Route::get('/log_in', function () {
+    return view('log_in');
+});
+
+Route::get('/message', function () {
+    return view('message');
+});

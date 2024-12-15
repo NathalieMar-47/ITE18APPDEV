@@ -35,12 +35,11 @@
     <header class="header">
       <div class="header__container">
         <div class="header__content">
-          <h1>A home built and unique with love and dreams</h1>
+          <h1>Your Trusted Partner in Finding the Perfect Home.</h1>
           <p>
-            Discover a curated selection of homes, apartments, and commercial
-            properties, along with expert tips, market insights, and valuable
-            resources to help you make the best real estate decisions. Join us
-            today and let's unlock the doors to your dream property!
+          APM Realty helps clients find their perfect property with ease. 
+          Combining expert guidance and smart marketing strategies, we make buying, selling, or investing in real estate simple and successful. 
+          Join us today and let's unlock the doors to your dream property!
           </p>
           <div class="header__btns">
             <button class="btn btn__secondary">Buy Now</button>
@@ -60,7 +59,7 @@
       <div class="about__content">
         <h3>ABOUT US</h3>
         <h2 class="section__header">
-          Award winning real estate company in Dubai
+          Award winning real estate company in Butuan
         </h2>
         <p class="section__subheader">
           Whether you're a first-time homebuyer, a seasoned investor, or simply
@@ -69,7 +68,7 @@
         </p>
         <div class="about__grid">
           <div class="about__card">
-            <h4>PREVIOUS PROJECTS</h4>
+            <h4>CURRENT LISTINGS</h4>
             <p>34+</p>
           </div>
           <div class="about__card">
@@ -108,10 +107,10 @@
               <img src="./IMAGES/house-1.png" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Palm View Apartments</h4>
+                  <h4>Riva Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Palm Jumeirah, Dubai
+                    Butuan City
                   </p>
                   <button>Book Now</button>
                 </div>
@@ -123,7 +122,7 @@
                     <span><i class="ri-star-half-fill"></i></span>
                     <span><i class="ri-star-line"></i></span>
                   </div>
-                  <div class="price">1200$</div>
+                  <div class="price">P 2M</div>
                 </div>
               </div>
             </div>
@@ -133,10 +132,10 @@
               <img src="./IMAGES/house-2.png" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Cityscape Residences</h4>
+                  <h4>Mara Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Downtown Dubai
+                    Buenavista
                   </p>
                   <button>Book Now</button>
                 </div>
@@ -148,7 +147,7 @@
                     <span><i class="ri-star-fill"></i></span>
                     <span><i class="ri-star-half-fill"></i></span>
                   </div>
-                  <div class="price">1000$</div>
+                  <div class="price">P 3M</div>
                 </div>
               </div>
             </div>
@@ -158,11 +157,10 @@
               <img src="./IMAGES/house-3.png" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Marina Heights</h4>
+                  <h4>Cara Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Dubai Marina
-                  </p>
+                    Nasipit, Agusan Del Norte
                   <button>Book Now</button>
                 </div>
                 <div class="project__ratings">
@@ -173,7 +171,7 @@
                     <span><i class="ri-star-fill"></i></span>
                     <span><i class="ri-star-fill"></i></span>
                   </div>
-                  <div class="price">1100$</div>
+                  <div class="price">P 3M</div>
                 </div>
               </div>
             </div>
@@ -183,10 +181,10 @@
               <img src="./IMAGES/house-4.jpg" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Desert Rose Flats</h4>
+                  <h4>Fiona Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Al Barsha, Dubai
+                    Cabadbaran City
                   </p>
                   <button>Book Now</button>
                 </div>
@@ -208,10 +206,10 @@
               <img src="./IMAGES/house-5.jpg" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Golden Sands Suites</h4>
+                  <h4>Mikha Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Bur Dubai
+                    Ampayon, Butuan City
                   </p>
                   <button>Book Now</button>
                 </div>
@@ -223,7 +221,7 @@
                     <span><i class="ri-star-half-fill"></i></span>
                     <span><i class="ri-star-line"></i></span>
                   </div>
-                  <div class="price">1300$</div>
+                  <div class="price">P 2M</div>
                 </div>
               </div>
             </div>
@@ -233,10 +231,10 @@
               <img src="./IMAGES/house-6.jpg" alt="project" />
               <div class="project__content">
                 <div class="project__details">
-                  <h4>Bliss Residences</h4>
+                  <h4>Freya Model House</h4>
                   <p>
                     <span><i class="ri-map-pin-line"></i></span>
-                    Jumeirah Beach, Dubai
+                    Butuan City
                   </p>
                   <button>Book Now</button>
                 </div>
@@ -247,6 +245,8 @@
                     <span><i class="ri-star-fill"></i></span>
                     <span><i class="ri-star-fill"></i></span>
                     <span><i class="ri-star-line"></i></span>
+                    <div class="ri-arrow-left-line swiper-button-prev"></div>
+                    <div class="ri-arrow-right-line swiper-button-next"></div>
                   </div>
                   <div class="price">1400$</div>
                 </div>
@@ -285,7 +285,7 @@
     <footer class="footer">
       <div class="section__container footer__container">
         <div class="footer__col">
-          <h4>HOLUX</h4>
+          <h4>APM REALTY</h4>
           <p>
             Our team of seasoned professionals is committed to providing you
             with exceptional service, in-depth market knowledge, and
@@ -294,7 +294,7 @@
           <div class="footer__socials">
             <span>
               <a href="#"><i class="ri-facebook-circle-fill"></i></a>
-            </span>
+            </span> 
             <span>
               <a href="#"><i class="ri-instagram-line"></i></a>
             </span>
@@ -319,7 +319,7 @@
         <div class="footer__col">
           <h4>Contact</h4>
           <a href="#">
-            <span><i class="ri-mail-line"></i></span> holux@gmail.com
+            <span><i class="ri-mail-line"></i></span> apmrealty@gmail.com
           </a>
           <a href="#">
             <span><i class="ri-phone-line"></i></span> +91 9876543210
@@ -327,7 +327,7 @@
         </div>
       </div>
       <div class="footer__bar">
-        Copyright © 2023 Web Design Mastery. All rights reserved.
+        Copyright © 2024 Web Design Mastery. All rights reserved.
       </div>
     </footer>
 

@@ -56,3 +56,7 @@ Route::get('/log_in', function () {
 Route::get('/message', function () {
     return view('message');
 });
+
+Route::get('/registration', function () {
+    return view('registration');
+});

@@ -8,6 +8,7 @@
   </head>
   <body>
     <div class="message-container">
+
       <h2>Send Us a Message</h2>
       <form id="message-form" class="message-form">
         <div class="input-field">

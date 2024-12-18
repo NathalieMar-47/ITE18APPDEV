@@ -9,12 +9,11 @@ body {
     height: 100vh;
   }
   
-  
   .message-container {
     background-color: white;
     padding: 2rem;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(149, 11, 11, 0.1);
+    box-shadow: 0 4px 6px rgba(151, 63, 63, 0.1);
     width: 100%;
     max-width: 500px;
   }
@@ -82,3 +81,28 @@ body {
     background-color: #e74c3c;
   }
   
+  .nav__bar {
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav__logo {
+    flex: 1;
+  }
+  
+  .nav__logo a {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+  }
+  
+  .nav__links {
+    list-style: none;
+    display: flex;
+    align-items: left;
+    gap: 2rem;
+  }

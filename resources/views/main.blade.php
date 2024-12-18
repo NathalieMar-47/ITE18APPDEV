@@ -21,26 +21,20 @@
       <div class="nav__bar">
         <div class="nav__logo"><a href="#">APM REALTY</a></div>
         <ul class="nav__links">
-          <li class="link"><a href="#home">HOME</a></li>
-          <li class="link"><a href="#about">ABOUT</a></li>
-          <li class="link"><a href="#project">PROJECT</a></li>
-          <li class="link"><a href="#contact">CONTACT</a></li>
-        </ul>
-        <div class="nav__btns">
-          <button class="btn btn__primary">Log In</button>
-          <button class="btn btn__secondary">Register Now</button>
-        </div>
-      </div>
-    </nav>
+          <li class="link"><a href="{{url('main')}}">HOME</a></li>
+          <li class="link"><a href="{{url('about_us')}}">ABOUT</a></li>
+          <li class="link"><a href="{{url('projects')}}">PROJECT</a></li>
+          <li class="link"><a href="{{url('message')}}">CONTACT</a></li>
+          </ul>
+<div class="nav__btns">
+  <a href="log_in" class="btn btn__primary">Log In</a>
+  <a href="registration" class="btn btn__secondary">Register Now</a>
+</div>
+</nav>
+
 
     <!-- Header Section -->
     <header class="header">
-    <a href="{{url('main')}}"><button>Home</button></a>
-      <a href="{{url('about_us')}}"><button>About Us</button></a>
-      <a href="{{url('projects')}}"><button>Projects</button></a>
-      <a href="{{url('message')}}"><button>Contact</button></a>
-      <a href="{{url('log_in')}}"><button>Log In</button></a>
-      <a href="{{url('registration')}}"><button>Register</button></a>
       <div class="header__container">
         <div class="header__content">
           <h1>Your Trusted Partner in Finding the Perfect Home.</h1>
@@ -57,7 +51,7 @@
         </div>
       </div>
     </header>
-
+  
     
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script src="./JS/script.js"></script>

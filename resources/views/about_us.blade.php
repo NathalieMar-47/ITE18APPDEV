@@ -30,7 +30,7 @@
       <div class="about__image">
         <img src="./IMAGES/project-01.jpg" alt="About Us" />
       </div>
-     
+      <div class="about__content">
         <h3>ABOUT US</h3>
         <h2 class="section__header">
           Award-winning real estate company in Butuan

@@ -35,20 +35,25 @@
 
     <!-- Header Section -->
     <header class="header">
-      <div class="header__container">
-        <div class="header__content">
-          <h1>Your Trusted Partner in Finding the Perfect Home.</h1>
-          <p>
-            APM Realty helps clients find their perfect property with ease.
-            Combining expert guidance and smart marketing strategies, we make
-            buying, selling, or investing in real estate simple and successful.
-            Join us today and let's unlock the doors to your dream property!
-          </p>
-          <div class="header__btns">
-            <button class="btn btn__secondary">Buy Now</button>
-            <button class="btn btn__primary">Learn More</button>
-          </div>
-        </div>
+    <div class="header__container">
+  <div class="header__content">
+    <h1>Your Trusted Partner in Finding the Perfect Home.</h1>
+    <p>
+      APM Realty helps clients find their perfect property with ease.
+      Combining expert guidance and smart marketing strategies, we make
+      buying, selling, or investing in real estate simple and successful.
+      Join us today and let's unlock the doors to your dream property!
+    </p>
+    <div class="header__btns">
+      <button class="btn btn__secondary">Buy Now</button>
+      <button class="btn btn__primary">Learn More</button>
+    </div>
+  </div>
+  <div class="header__image">
+    <img src="./IMAGES/project-0.jpg" alt="header" />
+  </div>
+</div>
+
       </div>
     </header>
   

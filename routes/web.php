@@ -60,3 +60,7 @@ Route::get('/message', function () {
 Route::get('/registration', function () {
     return view('registration');
 });
+
+Route::get('/crud', function () {
+    return view('crud');
+});

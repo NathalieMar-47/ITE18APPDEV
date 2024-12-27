@@ -144,7 +144,7 @@
                     <span><i class="ri-star-fill"></i></span>
                     <span><i class="ri-star-half-fill"></i></span>
                   </div>
-                  <div class="price">1500$</div>
+                  <div class="price">P 2M</div>
                 </div>
               </div>
             </div>
